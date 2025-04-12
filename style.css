@@ -105,7 +105,9 @@ body {
     padding: 20px;
     margin: auto;
 }
-
+.abt h2 {
+    color: #e5a0e5;
+}
 #skills,
 #projects,
 #contact {
