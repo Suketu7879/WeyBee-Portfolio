@@ -116,7 +116,7 @@ body {
     font-style: italic;
     color: #bbb;
 }
-
+ 
 #skills {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
